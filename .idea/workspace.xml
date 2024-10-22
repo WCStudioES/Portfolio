@@ -5,7 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="640c04a9-b82b-475d-95a9-62e9f40b8942" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/Desarrolladores/JorgeExterno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Desarrolladores/JorgeInterno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Desarrolladores/TasiaExterno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Desarrolladores/TasiaInterno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Empresa/ImagenEquipo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Empresa/WildClawLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/MERImg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/MERImg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/MERImg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/MrErazersRevenge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SCR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SCR3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SCRImg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SCRImg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SCRImg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SPADE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SPADEImg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SPADEImg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SPADEImg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/video/VideoBannerWeb.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/MiguelAngelCasco.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/MiguelAngelCascoRecortado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/MiguelAngelcara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/MiguelAngelcaraZoom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/avataaars.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/cabin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/cake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/circus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/safe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/submarine.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -30,8 +61,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Cambios-Anastasia",
-    "last_opened_file_path": "E:/Universidad/4/4.1/WebYProyectos/WCS_Portfolio",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/GitHubDesktop/WCS_Portfolio/assets/img/Empresa",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +72,12 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHubDesktop\WCS_Portfolio\assets\img\Empresa" />
+      <recent name="E:\GitHubDesktop\WCS_Portfolio\assets\img\Desarrolladores" />
+      <recent name="E:\GitHubDesktop\WCS_Portfolio\assets\img\portfolio" />
+      <recent name="E:\GitHubDesktop\WCS_Portfolio\assets\video" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Universidad\4\4.1\WebYProyectos\WCS_Portfolio\assets\img\portfolio" />
     </key>
@@ -63,6 +100,7 @@
       <workItem from="1729011182252" duration="4830000" />
       <workItem from="1729016078095" duration="344000" />
       <workItem from="1729107260540" duration="6061000" />
+      <workItem from="1729597270425" duration="21760000" />
     </task>
     <servers />
   </component>
