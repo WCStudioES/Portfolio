@@ -10891,6 +10891,29 @@ html {
   color: #fff;
 }
 
+
+/*Added for the desarrolladores part*/
+.modal-body-content {
+  display: flex;  /* Flexbox layout use */
+  align-items: flex-start; /* aligns it to the start of the image */
+  gap: 30px; /* space image-txt*/
+  margin-top: 50px;
+}
+
+.modal-image {
+  width: 50%; /* image size */
+  height: auto; /* aspect ratio */
+  margin-left: -55px; /*reduce padding on left*/
+}
+
+.text-container {
+  flex: 1; /* text container takes remaining size */
+  text-align: left; /* text aligned to the left */
+  margin-right: -55px;
+}
+/*end of added part*/
+
+
 .btn-xl {
   padding: 1rem 1.75rem;
   font-size: 1.25rem;
@@ -11041,6 +11064,12 @@ html {
 .portfolio-modal .portfolio-modal-title {
   font-size: 2.25rem;
   line-height: 2rem;
+}
+/*Added to control subtitel in Desarrolladores*/
+.portfolio-modal .portfolio-modal-subtitle {
+  font-size: 1.75rem;
+  line-height: 1.5rem;
+  margin-top: 10px;
 }
 @media (min-width: 992px) {
   .portfolio-modal .portfolio-modal-title {
