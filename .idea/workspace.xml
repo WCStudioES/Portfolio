@@ -5,40 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="640c04a9-b82b-475d-95a9-62e9f40b8942" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/Desarrolladores/JorgeExterno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Desarrolladores/JorgeInterno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Desarrolladores/TasiaExterno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Desarrolladores/TasiaInterno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Empresa/ImagenEquipo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Empresa/WildClawLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/MERImg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/MERImg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/MERImg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/MrErazersRevenge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SCR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SCR3D.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SCRImg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SCRImg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SCRImg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SPADE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SPADEImg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SPADEImg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/SPADEImg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/video/VideoBannerWeb.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/MiguelAngelCasco.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/MiguelAngelCascoRecortado.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/MiguelAngelcara.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/MiguelAngelcaraZoom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/avataaars.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/cabin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/cake.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/circus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/game.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/safe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/submarine.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +71,7 @@
       <workItem from="1729597270425" duration="21760000" />
       <workItem from="1729671605995" duration="7295000" />
       <workItem from="1729680433902" duration="279000" />
+      <workItem from="1729711285572" duration="3884000" />
     </task>
     <servers />
   </component>
