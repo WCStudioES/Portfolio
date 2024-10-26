@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="640c04a9-b82b-475d-95a9-62e9f40b8942" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/Desarrolladores/JoseAntonioExterno.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Desarrolladores/JoseAntonioInterno.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/JesusExterno.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/JesusInterno.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/JoseAntonioExterno.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Desarrolladores/JoseAntonioInterno.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,21 +24,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/GitHubDesktop/WCS_Portfolio/assets/img/Desarrolladores",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/GitHubDesktop/WCS_Portfolio/assets/img/Desarrolladores&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\GitHubDesktop\WCS_Portfolio\assets\img\Desarrolladores" />
@@ -79,7 +73,8 @@
       <workItem from="1729680433902" duration="279000" />
       <workItem from="1729711285572" duration="3884000" />
       <workItem from="1729950611674" duration="886000" />
-      <workItem from="1729952435084" duration="1208000" />
+      <workItem from="1729952435084" duration="1570000" />
+      <workItem from="1729955208930" duration="178000" />
     </task>
     <servers />
   </component>
