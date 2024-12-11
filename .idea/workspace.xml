@@ -5,14 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="640c04a9-b82b-475d-95a9-62e9f40b8942" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SCR3D_Episode1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/SCR3D_Episodes/SCR3D_Episode1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/SCR3D_Episodes/SCR3D_Episode2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/SCR3D_Episodes/SCR3D_Episode3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/SCR3D.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/SCR3D.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,11 +38,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/GitHubDesktop/WCS_Portfolio/assets/img/portfolio",
+    "last_opened_file_path": "E:/GitHubDesktop/WCS_Portfolio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,6 +60,7 @@
       <recent name="E:\GitHubDesktop\WCS_Portfolio\assets\video" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHubDesktop\WCS_Portfolio\assets\img\SCR3D_Episodes" />
       <recent name="E:\GitHubDesktop\WCS_Portfolio\assets\img\portfolio" />
       <recent name="E:\Universidad\4\4.1\WebYProyectos\WCS_Portfolio\assets\img\portfolio" />
     </key>
@@ -78,6 +91,7 @@
       <workItem from="1729952435084" duration="1570000" />
       <workItem from="1729955208930" duration="178000" />
       <workItem from="1732448640392" duration="696000" />
+      <workItem from="1733870327379" duration="6987000" />
     </task>
     <servers />
   </component>

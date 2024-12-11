@@ -11126,3 +11126,158 @@ html {
   transform: translateY(-50%) !important;
   width: 5% !important; /* Adjust width as needed */
 }
+
+/**************/
+/*CARD SECTION*/
+/**************/
+.card-section {
+  width: 100%;
+  padding: 50px 20px;
+  background-color: #fff;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.page-section-heading {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.divider-custom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.divider-custom-line {
+  width: 50px;
+  height: 2px;
+  background-color: #1a0f10;
+  margin: 0 10px;
+}
+
+.divider-custom-icon {
+  font-size: 1.5em;
+  color: #1a0f10;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: #fff;
+  border-radius: 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 300px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  padding: 0;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.card h3 {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.card p {
+  font-size: 0.9em;
+  color: #666;
+  margin-bottom: 90px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.card .button {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  display: inline-block;
+  margin-top: 10px;
+  margin: 10px 0 20px;
+  padding: 10px 15px;
+  background: white;
+  color: darkred;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+
+/* Locked Card Styles */
+.locked-card .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); /* Dark overlay */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 60px; /* Icon size */
+}
+
+
+/*EPISODE / STORY CSS*/
+/* Add a margin-top to the story section */
+.story-section {
+  margin-top: 200px; /* Adjust this value if necessary */
+  padding: 50px 20px;
+}
+
+/* Style the image inside the story-container */
+.story-container {
+  text-align: center;
+  margin-top: 30px;
+  max-width: 800px;  /* Set the desired width */
+  margin-left: auto; /* Centers the container */
+  margin-right: auto; /* Centers the container */
+}
+
+.story-container img {
+  height: 400px;  /* Set the desired height */
+  width: 100%;      /* Maintains aspect ratio */
+  margin-bottom: 40px;  /* Adds space between the image and text */
+  object-fit: cover;
+  object-position: center 70%; /*percentage moves closer to the bottom of the image*/
+}
+
+/* Optional: Style the paragraph text */
+.story-container p {
+  font-size: 1em;
+  line-height: 1.6;
+  text-align: left;
+  max-width: 800px;  /* Adjust for line length */
+  margin: 0;
+}
