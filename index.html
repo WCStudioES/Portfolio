@@ -93,7 +93,7 @@
                     <div class="card locked-card">
                         <img src="assets/img/SCR3D_Episodes/SCR3D_Episode2.png" alt="Card 2">
                         <h3 class="text-uppercase">enter the arena</h3>
-                        <p>Not Active Yet... But Stay Alert for its Release!</p>
+                        <p>Not active yet... But stay alert for its release!</p>
                         <a href="#" class="button">READ MORE ></a>
                         <div class="overlay">
                             <i class="fas fa-lock" style="font-size: 60px; position: absolute; top: 25%; left: 50%; transform: translateX(-50%);hover"></i> <!-- Lock Icon -->
@@ -103,7 +103,7 @@
                     <div class="card locked-card">
                         <img src="assets/img/SCR3D_Episodes/SCR3D_Episode3.png" alt="Card 3">
                         <h3 class="text-uppercase">Pandora, the chaos priest</h3>
-                        <p>Not Active Yet... But Stay Alert for its Release!</p>
+                        <p>Not active yet... But stay alert for its release!</p>
                         <a href="#" class="button">READ MORE ></a>
                         <div class="overlay">
                             <i class="fas fa-lock" style="font-size: 60px; position: absolute; top: 25%; left: 50%; transform: translateX(-50%);"></i> <!-- Lock Icon -->
@@ -329,7 +329,7 @@
                                     </div>
                                     <!-- Portfolio Modal - Video -->
                                     <div class="video-container">
-                                        <iframe id="videoIframe" src="https://www.youtube.com/embed/ds75GTA6XdU?si=R1LCdUAEMw5RJts6" frameborder="0" allowfullscreen></iframe>
+                                        <iframe id="videoIframe1" src="https://www.youtube.com/embed/ds75GTA6XdU?si=R1LCdUAEMw5RJts6" frameborder="0" allowfullscreen></iframe>
                                     </div>
                                     <!-- Portfolio Modal catch text-->
                                     <p class="mb-4"></p>
@@ -350,10 +350,10 @@
         </div>
         <!-- SCRIPTS FOR MODALS -->
         <script>
-            // Detener el video al cerrar el modal
+            // Detener el video al cerrar el modal1
             const videoModal = document.getElementById('portfolioModal1');
             videoModal.addEventListener('hidden.bs.modal', function () {
-                const videoIframe = document.getElementById('videoIframe');
+                const videoIframe = document.getElementById('videoIframe1');
                 videoIframe.src = videoIframe.src; // Reinicia el iframe para detener la reproducción
             });
         </script>
@@ -553,8 +553,10 @@
                                         <div class="divider-custom-icon" style="color:#1a0f10"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line" style="color:#1a0f10"></div>
                                     </div>
-                                    <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/SCR3D.png" alt="..." />
+                                    <!-- Portfolio Modal - Vid-->
+                                    <div class="video-container">
+                                        <iframe id="videoIframe2" src="https://www.youtube.com/embed/dESIXAj6zrM?si=wXParbYBljiSVaam" frameborder="0" allowfullscreen></iframe>
+                                    </div>
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">With the advancement of technology and space engineering, mankind has spread to the vast reaches of the cosmos. Amid this chaos, a new phenomenon has captured the galaxy's imagination: SPACE COMBAT RUSH—the ultimate deadly sport.</p>
                                     <p class="mb-0">Who will fall?</p>
@@ -572,6 +574,15 @@
                 </div>
             </div>
         </div>
+        <!-- SCRIPTS FOR MODALS -->
+        <script>
+            // Detener el video al cerrar el modal1
+            const videoModal5 = document.getElementById('portfolioModal5');
+            videoModal5.addEventListener('hidden.bs.modal', function () {
+                const videoIframe2 = document.getElementById('videoIframe2');
+                videoIframe2.src = videoIframe2.src; // Reinicia el iframe para detener la reproducción
+            });
+        </script>
 
         <!-- Developer Modals-->
         <!-- Developer Jose Modal 1-->
